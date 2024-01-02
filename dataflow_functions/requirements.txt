@@ -1,0 +1,9 @@
+google-cloud==0.34.0
+google-cloud-bigquery==2.4.0
+google-cloud-storage==1.32.0
+apache-beam[gcp]
+tensorflow==2.4.1
+tensorflow-transform
+tensorflow-hub
+
+# nltk
